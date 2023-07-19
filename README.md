@@ -3,6 +3,8 @@ Todo lo que el profe hizo en clase lo pude hacer andar.
 
 Tengo que modificar aún muchas cosas del código para que todo quede andando como antes pero con jwt.
 
+Pude incorporar el .env y el config.js
+
 Pude crear la carpeta services y los archivos de cart, user, product y ticket para services.
 
 Pude crear el model y el manager de tikect.
