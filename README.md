@@ -1,4 +1,5 @@
-En esta entrega modifiqué para no usar session y pasar a usar jwt
+En esta entrega modifiqué para no usar session y pasar a usar jwt.
+Todo lo que el profe hizo en clase lo pude hacer andar.
 
 Tengo que modificar aún muchas cosas del código para que todo quede andando como antes pero con jwt.
 
