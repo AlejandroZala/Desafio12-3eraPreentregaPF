@@ -5,6 +5,8 @@ Tengo que modificar aún muchas cosas del código para que todo quede andando co
 
 Pude incorporar el .env y el config.js
 
+Pude incorporar el servico de mensajeria con email con Nodemailer y sms con Twilio
+
 Pude crear la carpeta services y los archivos de cart, user, product y ticket para services.
 
 Pude crear el model y el manager de tikect.
