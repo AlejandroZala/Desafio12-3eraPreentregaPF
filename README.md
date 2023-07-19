@@ -1,3 +1,12 @@
+En esta entrega modifiqué para no usar session y pasar a usar jwt
+
+Tengo que modificar aún muchas cosas del código para que todo quede andando como antes pero con jwt.
+
+Esta entrega la hago para cumplir con la fecha pero sé que estoy estancado y me cuesta avanzar.
+
+
+
+
 Si hago un link a http://localhost:8080/ => va a /login
 
 Si no esta registrado => ir a /register
