@@ -3,6 +3,13 @@ Todo lo que el profe hizo en clase lo pude hacer andar.
 
 Tengo que modificar aún muchas cosas del código para que todo quede andando como antes pero con jwt.
 
+Pude crear la carpeta services y los archivos de cart, user, product y ticket para services.
+
+Pude crear el model y el manager de tikect.
+
+Aun me queda armar los controllers....ahi es donde hago laguna!
+
+
 Esta entrega la hago para cumplir con la fecha pero sé que estoy estancado y me cuesta avanzar.
 
 
